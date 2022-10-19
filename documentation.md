@@ -7,7 +7,7 @@ Name: Nishanth Mallekav
 
 Date: Tuesday May 12th
 
-Project Topic: Anime Ranker
+Project Topic: Anime Rating
 
 URL: http://localhost:3000/
 
@@ -111,4 +111,3 @@ Navigation Filters
 6. longest anime -> `  /nav/longestAnime   `
 7. longest anime -> `  /about   `
 
-# movie-ranker
