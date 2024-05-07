@@ -3,7 +3,7 @@
 
 ---
 
-Name: Nishanth Mallekav
+Name: Shashank Nutalapati
 
 Date: Tuesday May 12th
 
@@ -49,7 +49,7 @@ var options = {
         'content-type': 'application/x-www-form-urlencoded' 
     },
     form: { 
-       username : 'nish',
+       username : 'shashank',
        title: 'naruto',
        type: Action,
        season: 25,
@@ -80,7 +80,7 @@ var options = {
         'content-type': 'application/x-www-form-urlencoded' 
     },
     form: { 
-       username : 'nish',
+       username : 'shashank',
        comment : 'I like this'
     } 
 };
